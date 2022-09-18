@@ -1,5 +1,0 @@
-add 5
-substract 5
-multiply 2
-divide 2
-apply 10
